@@ -16,9 +16,7 @@ import db.db_work
 from lib_timely import *
 from lib_xp_bal import *
 #!МЕСТО ДЛЯ ТОКЕНА БОТА!
-token = "MTE5MzY1MDIwMTI3NDA4OTUzMg.Gh5ulm.Jmv5Jilxt0OerENs8mb3Og4WtlSbwgaoDHvnNY"
-#MTE5MzY1MDIwMTI3NDA4OTUzMg.Gh5ulm.Jmv5Jilxt0OerENs8mb3Og4WtlSbwgaoDHvnNY BotGrib
-#Nzg4MjU4NjE3MDkzNzgzNTgy.Galaap._oZlD5TsvzT0xzclhfb33kClRY_GvqUni52vQI Otkusibabla
+token = ""
 
 emoji_perl = "<:perl:1167865266479321209>"
 version = "0.2.1.DATA_BASE"
